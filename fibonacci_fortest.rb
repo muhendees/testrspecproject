@@ -14,3 +14,14 @@ end
 thrdz.each(&:join)
 
 puts a
+
+
+
+
+=begin
+
+DONT USE!!!!!!!!!!
+
+=end
+
+
